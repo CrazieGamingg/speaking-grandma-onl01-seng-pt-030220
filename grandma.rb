@@ -22,6 +22,7 @@ def speak_to_grandma(phrase)
    if phrase = "ILOVE YOU GRANDMA!"
    return "I LOVE YOU TOO PUMPKIN!"
    elsif phrase == phrase.upcase
+   return 
    puts 
 end
 
